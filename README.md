@@ -1,7 +1,5 @@
 # NN-practice-recognizing-shapes
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/your-username/NN-practice-recognizing-shapes/blob/main/LICENSE)
-
 ## Description
 
 This project focuses on object recognition using deep learning techniques. The goal is to train a convolutional neural network (CNN) model to classify images into three categories: triangles, squares, and combinations of triangles and squares. The project includes data generation, model training, and visualization of filter patterns and activation maps.
@@ -51,6 +49,9 @@ Please make sure to configure the boolean variables and parameters at the top of
 
 The project provides insights into the performance of the trained model and visualizes the learned features through filter patterns and activation maps. The model's accuracy and loss during training and validation are displayed using Matplotlib plots.
 
+<img width="468" alt="image" src="https://github.com/lironfarzam/NN-practice-recognizing-shapes/assets/87701576/f4f9edfc-efbd-4157-a214-5f2cbbc79994">
+
+
 ## Configuration
 
 The following boolean variables can be adjusted at the top of the `main.py` file:
@@ -71,4 +72,4 @@ The following boolean variables can be adjusted at the top of the `main.py` file
 
 ## Contributing
 
-Contributions to the project are welcome. If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+Contributions to the project are welcome. If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull
