@@ -69,6 +69,7 @@ The following boolean variables can be adjusted at the top of the `main.py` file
 - **SHOW_ACTIVATIONS_MAP**: Set to `True` to show the activation maps for a few images.
 
 - **NUM_OF_IMAGES_FOR_MAP**: Number of images to show activation maps for (should be less than the total number of images).
+  
 
 ## Contributing
 
